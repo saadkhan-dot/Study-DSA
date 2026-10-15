@@ -1,0 +1,10 @@
+# Compiled C++ executables
+output/
+*.out
+second
+first
+
+# macOS and editor files
+.DS_Store
+.vscode/
+*.dSYM/
